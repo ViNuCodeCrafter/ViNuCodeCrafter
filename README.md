@@ -1,5 +1,6 @@
-<h1 align="center">Hi , I'm Vinayak Bhardwaj</h1>
-<h3 align="center">A passionate Computer Science Engineering Student from India</h3>
+<h1 align="center"> Namaste, I'm Vinayak Bhardwaj</h1>
+<h3 align="center">A passionate Computer Science Engineering Student from Bharat(India)</h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/830b5e01f21eee6f1481141d0c0757f946a2895bcf11fee58c5351401733f8b3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinucodecrafter&label=Profile%20views&color=0e75b6&style=flat" alt="vinucodecrafter" /> </p>
 
