@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently studying **Computer Science Engineering**
 
-- 🌱 I’m currently learning :**CSS, HTML**
+- 🌱 I’m currently learning :**Java SpringBoot **
 
-- 🤝 I’m looking for help with : **Web Development.**
+- 🤝 I’m looking for help with : **Full Stack Development.**
 
-- 💬 Ask me about:  **MySql,C,Python,Java!**
+- 💬 Ask me about:  **MySql,C,Python,Java,HTML,React & React Native!**
 - Happy To Help!
 
 - 📫 How to reach me?
