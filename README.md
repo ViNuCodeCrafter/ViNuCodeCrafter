@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying **Computer Science Engineering**
 
-- 🌱 I’m currently learning :**Java SpringBoot **
+- 🌱 I’m currently learning :**Unity & AI Devlopment**
 
 - 🤝 I’m looking for help with : **Full Stack Development.**
 
